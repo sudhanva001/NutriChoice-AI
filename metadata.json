@@ -1,0 +1,6 @@
+{
+  "name": "NutriCoach",
+  "description": "AI-powered nutrition coach featuring smart meal decision comparisons, real-time food scanner, habit tracking, and proactive meal swaps.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
