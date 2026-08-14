@@ -181,7 +181,7 @@ This project is licensed under the MIT License.
 
 ## 👩‍💻 Author
 
-**Lekha Pradeep**
+**Sudhanva C**
 
 Bachelor of Engineering (Artificial Intelligence & Machine Learning)
 
